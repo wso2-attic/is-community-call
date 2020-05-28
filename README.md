@@ -7,7 +7,7 @@
 ## Links to Bookmark
 
 * Slack: [https://bit.ly/IAMMay28th](https://bit.ly/IAMMay28th)
-* (Silicon Valley IAM4Developers Meetup)[https://www.meetup.com/IAM-for-developers-Silicon-Valley/]
+* [Silicon Valley IAM4Developers Meetup](https://www.meetup.com/IAM-for-developers-Silicon-Valley/)
 * [](Toronto IAM4Developers Meetup)
 * [](Bangalore IAM4Developers Meetup)
 * [](London IAM4Developers Meetup)
