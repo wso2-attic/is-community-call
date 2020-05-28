@@ -7,7 +7,8 @@
 ## Links to Bookmark
 
 * [Identity Server Product Page](https://wso2.com/identity-and-access-management)
-* Slack: [http://bit.ly/wso2isslack](http://bit.ly/wso2isslack)
+* [Slack Channel](http://bit.ly/wso2isslack)
+* [Blog on Identity Server](https://github.com/prabath/wso2-iam-blogs)
 * [Silicon Valley IAM4Developers Meetup](https://www.meetup.com/IAM-for-developers-Silicon-Valley/)
 * [Toronto IAM4Developers Meetup](https://www.meetup.com/IAM-for-Developers-Toronto/)
 * [Bangalore IAM4Developers Meetup](https://www.meetup.com/IAM-for-Developers-Bangalore/)
