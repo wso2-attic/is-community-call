@@ -14,4 +14,4 @@
 * [London IAM4Developers Meetup](https://www.meetup.com/IAM-for-Developers-London/)
 * [Sydney IAM4Developers Meetup](https://www.meetup.com/IAM-for-Developers-Sydney/)
 * [Singapore IAM4Developers Meetup](https://www.meetup.com/IAM-for-Developers-Singapore/)
-* []Colombo IAM4Developers Meetup](https://www.meetup.com/Colombo-Identity-Access-Management-User-Group/)
+* [Colombo IAM4Developers Meetup](https://www.meetup.com/Colombo-Identity-Access-Management-User-Group/)
