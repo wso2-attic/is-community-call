@@ -13,7 +13,7 @@ Identity Server Community Call happens last Thursday, every month at 9.30 AM PST
 * [Identity Server Product Page](https://wso2.com/identity-and-access-management)
 * [Slack Channel](http://bit.ly/wso2isslack)
 * [Identity Server Twitter Account](https://twitter.com/wso2iscommunity)
-* [Blog on Identity Server](https://github.com/prabath/wso2-iam-blogs)
+* [Blogs on Identity Server](https://github.com/prabath/wso2-iam-blogs)
 * [Silicon Valley IAM4Developers Meetup](https://www.meetup.com/IAM-for-developers-Silicon-Valley/)
 * [Toronto IAM4Developers Meetup](https://www.meetup.com/IAM-for-Developers-Toronto/)
 * [Bangalore IAM4Developers Meetup](https://www.meetup.com/IAM-for-Developers-Bangalore/)
