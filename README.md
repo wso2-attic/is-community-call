@@ -4,6 +4,7 @@ Identity Server Community Call happens last Thursday, every month at 9.30 AM PST
 
 ## Call Notes
 
+* [3rd December, 2020](03122020.md)
 * [29th October, 2020](29102020.md)
 * [30th September, 2020](30092020.md)
 * [28th August, 2020](28082020.md)
