@@ -3,6 +3,7 @@
 Identity Server Community Call happens last Thursday, every month at 9.30 AM PST.
 
 ## Call Notes
+* [30th September, 2021](30092021.md)
 * [27th August, 2021](27082021.md)
 * [22nd July, 2021](22072021.md)
 * [20th May, 2021](20052021.md)
