@@ -3,6 +3,10 @@
 Identity Server Community Call happens last Thursday, every month at 9.30 AM PST.
 
 ## Call Notes
+### 2022
+* [27th January, 2022](27012022.md)
+
+### 2021
 * [16th December, 2021](16122021.md)
 * [23rd November, 2021](23112021.md)
 * [28th October, 2021](28102021.md)
@@ -14,6 +18,8 @@ Identity Server Community Call happens last Thursday, every month at 9.30 AM PST
 * [25th March, 2021](25032021.md)
 * [25th February, 2021](25022021.md)
 * [27th January, 2021](27012021.md)
+
+### 2020
 * [3rd December, 2020](03122020.md)
 * [29th October, 2020](29102020.md)
 * [30th September, 2020](30092020.md)
