@@ -4,6 +4,7 @@ Identity Server Community Call happens last Thursday, every month at 9.30 AM PST
 
 ## Call Notes
 ### 2022
+* [24th February, 2022](24022022.md)
 * [27th January, 2022](27012022.md)
 
 ### 2021
