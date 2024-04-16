@@ -1,3 +1,6 @@
+# This repository is no longer maintained.
+Issue reports and pull requests will not be attended.
+
 # Identity Server Community Call
 
 Identity Server Community Call happens last Thursday, every month at 9.30 AM PST.
